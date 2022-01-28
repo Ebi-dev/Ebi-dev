@@ -4,6 +4,7 @@ I'm 24 years old, and rearing to learn new technologies and expand on already kn
 ![Aesthetics!](https://i.pinimg.com/originals/c7/40/08/c740083e9f9e8a64653b1931cd507ab3.gif)
 
 🔭 I’m currently working on Henry's Final Project, for which my team and I decided on an e-wallet app!
+
 🌱 I’m currently learning TypeScript!
 
 <!--
