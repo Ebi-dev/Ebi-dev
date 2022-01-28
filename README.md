@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! My name is Agustín | Hola! Mi nombre es Agustin (～￣▽￣)～
+Full-Stack Web Developer
 
 <!--
 **EbiMania/EbiMania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
