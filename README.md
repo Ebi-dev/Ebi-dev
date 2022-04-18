@@ -3,7 +3,7 @@ I'm 24 years old, and raring to learn new technologies and expand on already kno
 
 ![Aesthetics!](https://i.pinimg.com/originals/c7/40/08/c740083e9f9e8a64653b1931cd507ab3.gif)
 
-🔭 I have just finished with Henry's Final Project, a cinema management app!
+🔭 I have just finished Henry's Final Project, a cinema management app!
 
 🌱 I’m currently learning TypeScript!
 
