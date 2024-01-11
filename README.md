@@ -5,7 +5,7 @@ I'm 25 years old, and raring to learn new technologies and expand on already kno
 
 🔭 I have just finished Henry's Final Project, a cinema management app!
 
-🌱 I’m currently learning TypeScript!
+🌱 I’m currently learning NextJS!
 
 <!--
 **EbiMania/EbiMania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
